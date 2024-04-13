@@ -1,0 +1,1 @@
+Nos "atoms" deve ser inserido componentes "pequenos" e simples de UI's, ou pode ser a camada mais próxima ao tsx do componente.

@@ -1,0 +1,1 @@
+Nos "organisms" deve ser inserido componentes que serão repetíveis em outras páginas. O uso de TSX está proibido.

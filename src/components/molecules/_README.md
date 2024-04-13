@@ -1,0 +1,1 @@
+Nas "molecules" deve ser criado componentes utilizando atoms, o uso do tsx direto deve ser evitado.
